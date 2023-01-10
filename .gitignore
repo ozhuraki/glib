@@ -58,3 +58,5 @@ ChangeLog
 # Meson
 /meson-build/
 /subprojects/*/
+
+!test2/Makefile
